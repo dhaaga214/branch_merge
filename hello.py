@@ -1,1 +1,1 @@
-printf("trying to check pollstatus ")
+print("trying to check pollstatus ")
